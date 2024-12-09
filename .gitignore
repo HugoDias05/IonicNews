@@ -68,3 +68,7 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+echo "newsapp-16d3e-firebase-adminsdk-xx5hu-1be8449365.json" >> .gitignore
+git add .gitignore
+git commit -m "Adiciona arquivo de credenciais ao .gitignore"
