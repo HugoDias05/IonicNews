@@ -1,8 +1,8 @@
 /* Estilização do cabeçalho */
 ion-header {
     ion-toolbar {
-      background: #000000; /* Cor primária */
-      color: #fff; /* Texto em branco */
+      --background: #ffffff; /* Cor primária */
+      color: #000000; /* Texto em branco */
       ion-title {
         font-size: 1.5rem; /* Tamanho padrão do título */
         font-weight: bold;
@@ -13,8 +13,12 @@ ion-header {
   
   /* Estilização do conteúdo */
   ion-content {
-    --background: #f4f5f8; /* Cor de fundo leve */
+    --background: #000000; /* Cor de fundo leve */
     padding: 1rem;
+  }
+
+  ion-select-option {
+    --color-selected: #FFFFFF;
   }
 
   /* Estilização do card */

@@ -1,21 +1,18 @@
 <div>
   <ion-header>
     <ion-toolbar>
-      <ion-title>Login</ion-title>
+      <ion-title>NEWSAPP</ion-title>
     </ion-toolbar>
   </ion-header>
   
   <ion-content>
+    <h2>Faça seu Login!</h2>
     <form (ngSubmit)="login()">
         <ion-input [(ngModel)]="username" name="username" required placeholder="Digite seu nome de usuário"></ion-input>
         <ion-input [(ngModel)]="password" name="password" type="password" required placeholder="Digite sua senha"></ion-input>
-  
       <ion-button expand="full" type="submit" class="submit">Login</ion-button>
     </form>
-  
-    <p *ngIf="errorMessage" class="error-message">{{ errorMessage }}</p>
-  
-    <!-- Botão para ir para a tela de Cadastro -->
     <ion-button expand="full" fill="clear" (click)="goToRegister()" class="already">Ainda não tem conta? Cadastre-se</ion-button>
+    <p *ngIf="errorMessage" class="error-message">{{ errorMessage }}</p>
   </ion-content>
 </div>

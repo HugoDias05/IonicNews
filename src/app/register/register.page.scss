@@ -7,24 +7,28 @@ div {
     gap: 22vh;
 }
 
-ion-header {
-    --color: white;  // Cor do texto do título
-  }
   
   ion-toolbar {
-    --background: #3880ff;  // Cor do toolbar
+    --background: #ffffff;  // Cor do toolbar
     height: 8vh;
     display: flex;
     justify-content: center;
+    text-transform: uppercase;
   }
   
-  ion-title {
+  ion-title, h2 {
     font-size: 2.2rem;
     font-weight: bold;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
   }
   
+  h2 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 2em;
+  }
+
   ion-content {
     padding: 20px; // Cor de fundo do conteúdo da página
   }
@@ -35,6 +39,7 @@ ion-header {
     gap: 20px;
     width: 100vw;
     align-items: center;
+    margin-top: 20px;
   }
   
   ion-item {
@@ -53,20 +58,21 @@ ion-header {
 
   
   .submit {
-    --background: #3880ff;
-    --color: white;
+    --background: #ffffff;
+    --color: rgb(0, 0, 0);
     --height: 50px;
     width: 80%;
     font-size: 1.5em;
-    font-weight: 700;
-    --border-radius: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    --color-selected: #969696 !important
   }
-  
 
   .already {
-    color: #3880ff;
+    color: #969696;
     background-color: none;
     font-size: 1em;
+    text-decoration: underline;
   } 
 
   .error-message {
@@ -74,8 +80,14 @@ ion-header {
     font-size: 1rem;
     text-align: center;
     margin-top: 20px;
+    font-weight: bold;
   }
   
+  @media (max-width: 380px) {
+    ion-title {
+      font-size: 2em;
+    }
+  }
 
   @media  (min-width: 1024px) {
     ion-title {
