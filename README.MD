@@ -31,17 +31,17 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
 </a>
 
 ## AUTORES 
-<a href="https://github.com/HugoDias05"/>
-<img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+<a href="https://github.com/xamaclt"/>
+<img src="https://avatars.githubusercontent.com/u/167829613?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
-<a href="https://github.com/HugoDias05"/>
-<img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+<a href="https://github.com/b4arbosa"/>
+<img src="https://avatars.githubusercontent.com/u/132725279?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
-<a href="https://github.com/HugoDias05"/>
-<img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+<a href="https://github.com/pedro0923"/>
+<img src="https://avatars.githubusercontent.com/u/146780193?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
-<a href="https://github.com/HugoDias05"/>
-<img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+<a href="https://github.com/pepesipvp"/>
+<img src="https://avatars.githubusercontent.com/u/82416197?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
 <a href="https://github.com/HugoDias05"/>
 <img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
