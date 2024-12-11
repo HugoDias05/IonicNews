@@ -1,10 +1,10 @@
-#IONIC NEWS
+# IONIC NEWS
 Aplicação mobile de notícias de diversas categorias, desenvolvido em Ionic.
 
-##DESCRIÇÃO
+## DESCRIÇÃO
 Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com design agradável e pensando na User Experience, o aplicativo conta com página de detalhamento de notícias, filtro por categoria e opção para salvar as notícias para ler offline pelo cache.
 
-##INSTALAÇÃO DO REPOSITÓRIO
+## INSTALAÇÃO DO REPOSITÓRIO
 1. Após feita a clonagem do repositório, instale as dependências.
  ```sh
    npm install
@@ -19,18 +19,18 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
    node server.js
    ```
 
-##PRE-REQUISITOS
+## PRE-REQUISITOS
 1. Node.js
 2. Ionic
 3. Firebase
 4. VAPID Key (para notificações push)
 
-##CONTRIBUIDORES 
+## CONTRIBUIDORES 
 <a href="https://github.com/HugoDias05"/>
 <img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
 
-##AUTORES 
+## AUTORES 
 <a href="https://github.com/HugoDias05"/>
 <img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
