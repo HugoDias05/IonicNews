@@ -43,6 +43,6 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
 <a href="https://github.com/pepesipvp"/>
 <img src="https://avatars.githubusercontent.com/u/82416197?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
-<a href="https://github.com/HugoDias05"/>
-<img src="https://avatars.githubusercontent.com/u/187983727?s=400&v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+<a href="https://github.com/Davi191001"/>
+<img src="https://avatars.githubusercontent.com/u/148375722?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
 </a>
