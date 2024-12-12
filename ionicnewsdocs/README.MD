@@ -9,7 +9,7 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
  ```sh
    npm install
    ```
-2. Insira sua chave VAPID do firebase console no arquivo "Notification.service.ts" para utilização local.
+2. Insira sua chave VAPID do firebase console no arquivo `notification-service.ts` para utilização local.
 3. Execute o comando "ionic serve" para iniciar o servidor e acessar a aplicação pelo navegador.
  ```sh
    ionic serve
@@ -24,6 +24,9 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
 2. Ionic
 3. Firebase
 4. VAPID Key (para notificações push)
+
+## FLUXO DE TRABALHO
+<img src="FLUXO DE TRABALHO.png" width="400px;" style="border-radius: 50%;" alt="Fluxo de Trabalho"/>
 
 ## CONTRIBUIDORES 
 <a href="https://github.com/HugoDias05"/>
