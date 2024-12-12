@@ -26,7 +26,7 @@ Aplicação simples, pensando na praticidade do usuário para o dia a dia. Com d
 4. VAPID Key (para notificações push)
 
 ## FLUXO DE TRABALHO
-<img src="FLUXO DE TRABALHO.png" width="400px;" style="border-radius: 50%;" alt="Fluxo de Trabalho"/>
+<img src="ionicnewsdocs/FLUXO DE TRABALHO.png" width="400px;" style="border-radius: 50%;" alt="Fluxo de Trabalho"/>
 
 ## CONTRIBUIDORES 
 <a href="https://github.com/HugoDias05"/>
